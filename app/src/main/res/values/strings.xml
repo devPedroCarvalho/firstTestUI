@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">firstTestUI</string>
+    <string name="name">Nome:</string>
+    <string name="name_edit_text">Digite seu nome</string>
+    <string name="field_error">Campo obrigatório</string>
+    <string name="add_name">Adicionar nome</string>
+    <string name="clear_btn">Limpar</string>
 </resources>
